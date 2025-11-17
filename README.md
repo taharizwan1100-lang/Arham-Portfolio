@@ -33,7 +33,11 @@ The design is built using **Tailwind CSS**, with custom colors, gradients, and s
 - AOS (Animate On Scroll library)  
 - Unsplash images for background and placeholders  
 
+## documentation 
+[Docomentation](<../../Downloads/Portfolio_Project_Documentation (1).docx>)
+
+## figma design
+https://www.figma.com/design/kjykjltgjrcF8T3JvBO9V2/Untitled?node-id=0-1&t=zKPBGDA1tvPATy8p-1
 
 
-## Folder Structure
 
